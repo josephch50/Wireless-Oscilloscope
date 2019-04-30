@@ -3,7 +3,7 @@ Creating a wireless oscilloscope comprising of two TI MSP430F2274 development bo
 
 ## EE-4737 Embedded Systems Final Project
 ## Team: Scope-A
-## Contributor: Joseph Chen, Samuel Solverson, Andrew Kirkum
+## Contributors: Joseph Chen, Samuel Solverson, Andrew Kirkum
 
 ### Project Overview
 The project will consist of building a Wireless Remote Oscilloscope Probe that uses two eZ430 cards, one for measuring the analog input signal and the other for reconstructing the analog signal using a digital to analog converter. As noted on the Final Project Specification[1] handout, the conditions for testing functionality include:
