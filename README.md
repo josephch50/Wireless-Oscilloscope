@@ -1,7 +1,7 @@
 # Wireless-Oscilloscope
 Creating a wireless oscilloscope comprising of two TI MSP430F2274 development boards and AD5320 DAC
 
-## EE-4737 Embedded Systems Final Project
+## Embedded Systems
 ## Team: Scope-A
 ## Contributors: Joseph Chen, Samuel Solverson, Andrew Kirkum
 
